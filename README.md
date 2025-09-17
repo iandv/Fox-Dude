@@ -16,7 +16,7 @@ A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapon
 ![Intro](https://github.com/user-attachments/assets/12b599ed-4ec1-4154-bdb5-ef8ebd1bfdea)
 
 ## 🛠 Development Summary
-This project was developed over 3 months as part of my studies for College.
+This project was developed over 3 months as part of my studies for a class in College.
 
 ## Disclaimer
 ⚠️ This repository is for portfolio presentation only — the full Unity project is private.
