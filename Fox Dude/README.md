@@ -1,4 +1,4 @@
-# Fox-Dude
+# Fox Dude
 A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapons, offering a challenging experience.
 
 ## 🚀 Features
