@@ -13,7 +13,7 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 
 ## 🧑‍💻 My Contributions
 
-- Implemented all gameplay systems (shooting, enemy AI)
+- Implemented all gameplay systems (shooting, enemy AI, items and special abilities)
 - Implemented animations.
 - Designed and balanced enemies' behavior.
 - Designed UI elements (menus, score, HUD)
