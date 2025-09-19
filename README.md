@@ -12,7 +12,7 @@ A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapon
 - Feedback with sound effects.
 - Pre-rendered video intro.
 
-- 🧑‍💻 My Contributions
+## 🧑‍💻 My Contributions
 
 - Implemented all gameplay systems (shooting, enemy AI, power-ups)
 - Implemented animations.
