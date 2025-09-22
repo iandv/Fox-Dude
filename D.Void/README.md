@@ -18,7 +18,7 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 - Designed and balanced enemies' behavior.
 - Designed UI elements (menus, HUD, etc)
 - Integrated audio and effects.
-- Designed modular 3D assets and barrels.
+- Modeled and textured 3D assets (modular assets, barrel and box).
 - Designed levels.
 
 ## 🎥 Demo
