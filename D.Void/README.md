@@ -29,7 +29,7 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 - C#
 - NavMesh
 - ParticleSystem
-- RigidBody
+- CharacterController
 
 ## 🛠 Development Summary
 This project was developed over 3 months as part of my studies for a class in College.
