@@ -22,7 +22,7 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 - Designed levels.
 
 ## 🎥 Demo
-
+![2_Room Clearing](https://github.com/user-attachments/assets/71180964-7037-4810-9b1b-5fd0eb76fcff)
 
 ## 🧠 Technology Used
 - Unity 2019.4.18f1
