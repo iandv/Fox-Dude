@@ -30,7 +30,7 @@ A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapon
 - Rigidbody2D
 
 ## 🛠 Development Summary
-This project was developed over 3 months as part of my studies for a class in College.
+This project was developed over 3 months as part of my studies in College.
 
 ## Disclaimer
 ⚠️ This repository is for portfolio presentation only — the full Unity project is private.
