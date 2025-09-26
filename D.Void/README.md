@@ -18,7 +18,7 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 - Designed and balanced enemies' behavior.
 - Designed UI elements (menus, HUD, etc)
 - Integrated audio and effects.
-- Modeled and textured 3D assets (modular assets, barrel and box).
+- Modeled and textured some of the 3D assets (modular assets, barrel and box).
 - Designed levels.
 
 ## 🎥 Demo
@@ -32,7 +32,7 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 - CharacterController
 
 ## 🛠 Development Summary
-This project was developed over 3 months as part of my studies for a class in College.
+This project was developed over 3 months as part of my studies in College.
 
 ## Disclaimer
 ⚠️ This repository is for portfolio presentation only — the full Unity project is private.
