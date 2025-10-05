@@ -35,6 +35,7 @@ A mobile 2.5D physics based puzzle game inspired by Angry Birds and Crush the Ca
 - 2021.3.12f1
 - C#
 - Rigidbody3D
+- Android SDK
 
 ## 🛠 Development Summary
 This project was continuely developed on and off in the time period of 2021 to 2024 for a few different classes in college.
