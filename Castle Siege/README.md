@@ -32,7 +32,7 @@ A mobile 2.5D physics based puzzle game made in Unity, inspired by Angry Birds a
 ![Gameplay](https://github.com/user-attachments/assets/ba43f8f5-56bd-4211-b00b-3de228ce7400)
 
 ## 🧠 Technology Used
-- 2021.3.12f1
+- Unity 2021.3.12f1
 - C#
 - Rigidbody3D
 - Android SDK
