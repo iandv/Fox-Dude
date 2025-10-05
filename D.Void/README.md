@@ -1,11 +1,13 @@
 # D.Void
-A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, enemy AI, ranged weapons and explosives.
+A 3D First Person Shooter made in Unity, inspired by classic shooters like Doom and Quake.
+
+![Main Menu](https://github.com/user-attachments/assets/81230efe-61b3-4eca-b3a5-789843ac1913)
 
 ## 🚀 Features
 - First person camera, aiming and movement.
 - Variety of enemies with different behaviors.
 - Enemy AI (NavMesh based movement and obstacle avoidance, field of view and sound detection).
-- Hit Box system for enemies' damage detection.
+- Hit Box system for enemy damage detection.
 - RayCast based shooting.
 - Particle system for various effects including: Blood, Sparks, Explosions.
 - Animations with Avatar Masks.
@@ -15,11 +17,11 @@ A 3D First Person Shooter made in Unity. Featuring a modular 3D environment, ene
 
 - Implemented all gameplay systems (shooting, enemy AI, items and special abilities)
 - Implemented animations.
-- Designed and balanced enemies' behavior.
-- Designed UI elements (menus, HUD, etc)
+- Designed and balanced enemy behavior.
+- Helped design UI elements (menus, HUD, etc)
 - Integrated audio and effects.
-- Modeled and textured some of the 3D assets (modular assets, barrel and box).
-- Designed levels.
+- Modeled and textured modular assets, barrel and box models.
+- Helped designed levels.
 
 ## 🎥 Demo
 ![2_Room Clearing](https://github.com/user-attachments/assets/71180964-7037-4810-9b1b-5fd0eb76fcff)
