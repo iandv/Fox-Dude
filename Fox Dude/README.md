@@ -1,5 +1,7 @@
 # Fox Dude
-A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapons, offering a challenging experience.
+A 2D platformer made in Unity inspired by classic platformers like Super Mario.
+
+![Intro](https://github.com/user-attachments/assets/12b599ed-4ec1-4154-bdb5-ef8ebd1bfdea)
 
 ## 🚀 Features
 - Variety of enemies with different behaviors.
@@ -7,7 +9,7 @@ A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapon
 - Number of enviromental traps.
 - Platforms and elevators.
 - Powerups.
-- Projectile based weapons.
+- Unlockable weapon.
 - 2D animations using spritesheets.
 - Feedback with sound effects.
 - Pre-rendered video intro.
@@ -22,7 +24,7 @@ A 2D platformer made in Unity. Featuring obstacles, enemies, powerups and weapon
 - Rendered video intro.
 
 ## 🎥 Demo
-![Intro](https://github.com/user-attachments/assets/12b599ed-4ec1-4154-bdb5-ef8ebd1bfdea)
+![Platform](https://github.com/user-attachments/assets/e5c6e2ec-c4cd-49c3-b220-f5aca9db54cd)
 
 ## 🧠 Technology Used
 - Unity 2018.3.0f2
