@@ -1,5 +1,5 @@
 # Castle Siege
-A mobile 2.5D physics based puzzle game inspired by Angry Birds and Crush the Castle.
+A mobile 2.5D physics based puzzle game made in Unity, inspired by Angry Birds and Crush the Castle.
 
 ![Main Menu](https://github.com/user-attachments/assets/b4592816-8e30-4534-856f-347e765f3ed1)
 
