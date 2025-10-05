@@ -8,6 +8,7 @@ A 3D First Person Shooter made in Unity, inspired by classic shooters like Doom 
 - Variety of enemies with different behaviors.
 - Enemy AI (NavMesh based movement and obstacle avoidance, field of view and sound detection).
 - Hit Box system for enemy damage detection.
+- Special Skill that recharges with kills.
 - RayCast based shooting.
 - Particle system for various effects including: Blood, Sparks, Explosions.
 - Animations with Avatar Masks.
